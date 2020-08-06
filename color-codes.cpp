@@ -1,6 +1,6 @@
 #include <iostream>
 
-UBUNTU/LINUX, and MacOS terminal color codes.
+//UBUNTU/LINUX, and MacOS terminal color codes.
 #define RESET   "\033[0m"
 #define BLACK   "\033[30m"      /* Black */
 #define RED     "\033[31m"      /* Red */
